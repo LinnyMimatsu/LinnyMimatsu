@@ -3,7 +3,10 @@ ___
 IEEE Member @ Arkansas Tech IEEE Student branch ⚡
 
 - 🌱 I'm learning Circuit Theory!
+- Arduino enjoyer
+***
 - Aspiring UAV Engineer
+- FPGA boards are kinda neat
 
 ___
 - Languages I'm proficient or actively learning:
