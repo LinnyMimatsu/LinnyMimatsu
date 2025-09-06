@@ -1,5 +1,5 @@
 ## Hai! I am Dom! 👋
-___
+<!--___-->
 ## IEEE Member @ Arkansas Tech IEEE Student branch ⚡
 
 - 🌱 I'm learning Circuit Theory!
