@@ -3,7 +3,7 @@
 ## IEEE Member @ Arkansas Tech IEEE Student branch ⚡
 
 - 🌱 I'm learning Circuit Theory!
-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Farduino-logo-1.png&f=1&nofb=1&ipt=6f40c1f570fbde5145f1a9331050ecf40c3e5b9dc030ef2e43a7f5f6ae5e9181" width="10" height="10">Arduino enjoyer
+- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Farduino-logo-1.png&f=1&nofb=1&ipt=6f40c1f570fbde5145f1a9331050ecf40c3e5b9dc030ef2e43a7f5f6ae5e9181" width="25" height="25">Arduino enjoyer
 - Aspiring UAV Engineer
 - FPGA boards are kinda neat
 
