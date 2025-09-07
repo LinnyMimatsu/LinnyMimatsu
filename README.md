@@ -1,4 +1,4 @@
-# Hai! I am Dom! 👋
+# Hai! I'm Dom! 👋
 <!--___-->
 ### IEEE Member - Arkansas River Valley (ATU IEEE) ⚡
 ### Region 5 - Southwestern USA
