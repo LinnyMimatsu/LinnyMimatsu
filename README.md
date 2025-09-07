@@ -1,7 +1,7 @@
 # Hai! I am Dom! 👋
 <!--___-->
 ### IEEE Member - Arkansas River Valley (ATU IEEE) ⚡
-### Region 5
+### Region 5 - Southwestern USA
 ##
 
 - 🌱 I'm learning Circuit Theory!
