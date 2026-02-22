@@ -13,7 +13,7 @@
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficons.veryicon.com%2Fpng%2Fo%2Fmiscellaneous%2Fcloud-computing-foundation-internet-of-things%2Ffpga.png&f=1&nofb=1&ipt=bf906c882a295346eab50be359d28811a5df972c9d3f168a524a7dc37c32c980" width="20" height="20"> FPGA boards are kinda neat
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2022%2F02%2FOsu-Logo.png&f=1&nofb=1&ipt=7ec784190da61702ac8166132d81e65831c8a4fdede0d32d466dd5df26817189" width="30" height="30"> Rhythm game enjoyer
   - Osu! Standard and Taiko are my favorite!
-- Differential Equations is kinda confusing T-T
+- I understand Diff. Eq. now c:<
 
 ##
 - Languages I'm proficient or actively learning:
