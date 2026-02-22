@@ -6,7 +6,6 @@
 
 ### Personal Interests:
 - My profile picture is of LISA ❤️
-- I absolutely LOVE kpop
 - 🌱 I'm learning Circuit Theory!
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Farduino-logo-1.png&f=1&nofb=1&ipt=6f40c1f570fbde5145f1a9331050ecf40c3e5b9dc030ef2e43a7f5f6ae5e9181" width="20" height="20"> Arduino enjoyer
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F016%2F475%2F394%2Foriginal%2Ftransparent-drone-uav-in-flight-png.png&f=1&nofb=1&ipt=ae63f4e9484892762cc3a2edb56bb88eca214e79a47085b42fd8dcef87271b00" width="25" height="25"> Aspiring UAV Engineer
