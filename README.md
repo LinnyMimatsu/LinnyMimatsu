@@ -11,7 +11,7 @@
 - Osu! Standard Player (#23k Globally)
 
 ##
-- Coding Knowledge:
+### Coding Knowledge:
 - Python, C++, C, CMake
 
 ##
